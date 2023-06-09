@@ -10,6 +10,14 @@
 
 #### Maven  (https://maven.apache.org/)
 #### Open JDK 11 (https://openjdk.org/projects/jdk/11/)
+#### Git (https://git-scm.com/downloads)
+
+
+### Installation
+
+* [Install and Configure git]
+* [Install OpenJDK Open JDK 11]
+* [Install Maven version 3.6.3]
 
 
 
