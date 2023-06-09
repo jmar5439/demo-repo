@@ -6,10 +6,10 @@
 
 
 
-#### Prerequisites:
+## Prerequisites:
 
-# Maven  (https://maven.apache.org/)
-# Open JDK 11 (https://openjdk.org/projects/jdk/11/)
+#### Maven  (https://maven.apache.org/)
+#### Open JDK 11 (https://openjdk.org/projects/jdk/11/)
 
 
 
